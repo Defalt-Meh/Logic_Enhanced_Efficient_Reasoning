@@ -1,3 +1,4 @@
 models/
 data/raw/
 data/processed/
+.venv/
