@@ -1,0 +1,4 @@
+pandas
+groq
+python-dotenv
+scikit-learn

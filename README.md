@@ -1,5 +1,9 @@
-# Logic_Enhanced_Efficient_Reasoning
+# Turkish Logic Benchmark
 
-ideally 300-700 questions
+This repository evaluates LLMs on Turkish logic puzzles (ALES/DGS style).
 
-50 questions from original, meaning, we need an estimated 14 original questions.
+## Setup
+1. Install dependencies: `pip install -r requirements.txt`
+2. Add your Groq API key to `.env`
+3. Run generation: `python src/generate_dataset.py`
+4. Run benchmark: `python src/run_benchmark.py`
