@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2021/1_0__syn_1",
+    "context": "Seda, Emre ve Tolga üç katılımcı Monokrom (M), Portre (P), Manzara (N), Sokak (S) ve Stüdyo (T) atölyelerine katılmıştır. Atölyelere ilişkin bilgiler: - Her katılımcı en az bir atölyeye katılmıştır. - M ve T atölyelerinde yalnızca birer katılımcı, diğer atölyelerde ikişer katılımcı vardır. - Seda Portre (P) atölyesine, Emre ise Stüdyo (T) atölyesine katılmıştır. - Tolga iki atölyeye katılmıştır. - Seda ile Emre aynı sayıda atölyeye katılmışlardır. - Seda ile Tolga yalnızca Sokak (S) atölyesinde birlikte yer almışlardır.",
+    "question": "Hangi ifade kesin doğrudur?",
+    "choices": [
+      "A) Emre Monokrom (M) atölyesinde yer almıştır.",
+      "B) Seda Stüdyo (T) atölyesinde yer almıştır.",
+      "C) Emre Portre (P) atölyesinde yer almıştır.",
+      "D) Tolga Portre (P) atölyesinde yer almıştır.",
+      "E) Seda Monokrom (M) atölyesinde yer almıştır."
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "2021/1_0__syn_2",
+    "context": "Seda, Emre ve Tolga üç katılımcı Monokrom (M), Portre (P), Manzara (N), Sokak (S) ve Stüdyo (T) atölyelerine katılmıştır. Atölyelere ilişkin bilgiler: - Her katılımcı en az bir atölyeye katılmıştır. - M ve T atölyelerinde yalnızca birer katılımcı, diğer atölyelerde ikişer katılımcı vardır. - Seda Portre (P) atölyesine, Emre ise Stüdyo (T) atölyesine katılmıştır. - Tolga iki atölyeye katılmıştır. - Seda ile Emre aynı sayıda atölyeye katılmışlardır. - Seda ile Tolga yalnızca Sokak (S) atölyesinde birlikte yer almışlardır.",
+    "question": "Hangi ifade kesin yanlıştır?",
+    "choices": [
+      "A) Emre Monokrom (M) atölyesinde yer almıştır.",
+      "B) Tolga Manzara (N) atölyesinde yer almıştır.",
+      "C) Seda Portre (P) atölyesinde yer almıştır.",
+      "D) Emre Stüdyo (T) atölyesinde yer almıştır.",
+      "E) Seda Sokak (S) atölyesinde yer almıştır."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "2021/1_0__syn_3",
+    "context": "Seda, Emre ve Tolga üç katılımcı Monokrom (M), Portre (P), Manzara (N), Sokak (S) ve Stüdyo (T) atölyelerine katılmıştır. Atölyelere ilişkin bilgiler: - Her katılımcı en az bir atölyeye katılmıştır. - M ve T atölyelerinde yalnızca birer katılımcı, diğer atölyelerde ikişer katılımcı vardır. - Seda Portre (P) atölyesine, Emre ise Stüdyo (T) atölyesine katılmıştır. - Tolga iki atölyeye katılmıştır. - Seda ile Emre aynı sayıda atölyeye katılmışlardır. - Seda ile Tolga yalnızca Sokak (S) atölyesinde birlikte yer almışlardır.",
+    "question": "Aşağıdakilerden hangisi mümkün olabilir?",
+    "choices": [
+      "A) Seda Monokrom (M) atölyesinde yer almış olabilir.",
+      "B) Emre Monokrom (M) atölyesinde yer almış olabilir.",
+      "C) Seda ve Tolga Manzara (N) atölyesinde birlikte yer almış olabilir.",
+      "D) Tolga Portre (P) atölyesinde yer almış olabilir.",
+      "E) Emre yalnızca Stüdyo (T) ve Portre (P) atölyelerine katılmış olabilir."
+    ],
+    "answer": "A"
+  },
+  {
+    "id": "2021/1_0__syn_4",
+    "context": "Seda, Emre ve Tolga üç katılımcı Monokrom (M), Portre (P), Manzara (N), Sokak (S) ve Stüdyo (T) atölyelerine katılmıştır. Atölyelere ilişkin bilgiler: - Her katılımcı en az bir atölyeye katılmıştır. - M ve T atölyelerinde yalnızca birer katılımcı, diğer atölyelerde ikişer katılımcı vardır. - Seda Portre (P) atölyesine, Emre ise Stüdyo (T) atölyesine katılmıştır. - Tolga iki atölyeye katılmıştır. - Seda ile Emre aynı sayıda atölyeye katılmışlardır. - Seda ile Tolga yalnızca Sokak (S) atölyesinde birlikte yer almışlardır.",
+    "question": "Eğer Monokrom (M) atölyesinde Seda varsa, hangisi kesin doğrudur?",
+    "choices": [
+      "A) Tolga da Monokrom (M) atölyesindedir.",
+      "B) Manzara (N) atölyesinin katılımcıları Emre ve Tolga'dır.",
+      "C) Emre Monokrom (M) atölyesindedir.",
+      "D) Seda ve Tolga Portre (P) atölyesinde birlikte yer almıştır.",
+      "E) Stüdyo (T) atölyesinde tek katılımcı Tolga'dır."
+    ],
+    "answer": "B"
+  },
+  {
+    "id": "2021/1_0__syn_5",
+    "context": "Seda, Emre ve Tolga üç katılımcı Monokrom (M), Portre (P), Manzara (N), Sokak (S) ve Stüdyo (T) atölyelerine katılmıştır. Atölyelere ilişkin bilgiler: - Her katılımcı en az bir atölyeye katılmıştır. - M ve T atölyelerinde yalnızca birer katılımcı, diğer atölyelerde ikişer katılımcı vardır. - Seda Portre (P) atölyesine, Emre ise Stüdyo (T) atölyesine katılmıştır. - Tolga iki atölyeye katılmıştır. - Seda ile Emre aynı sayıda atölyeye katılmışlardır. - Seda ile Tolga yalnızca Sokak (S) atölyesinde birlikte yer almışlardır.",
+    "question": "Buna göre hangisi kesinlikle doğrudur?",
+    "choices": [
+      "A) Monokrom (M) atölyesinin katılımcısı kesinlikle Tolga'dır.",
+      "B) Manzara (N) atölyesinde Emre kesinlikle yer alır.",
+      "C) Portre (P) atölyesinin katılımcıları Seda ve Tolga'dır.",
+      "D) Stüdyo (T) atölyesinde ikinci bir katılımcı vardır.",
+      "E) Seda yalnızca Portre (P) ve Sokak (S) atölyelerine katılmıştır."
+    ],
+    "answer": "B"
+  }
+]

@@ -1,6 +1,8 @@
 data/raw/
 .venv/
 .env
+.DS_Store
+
 
 # Generated outputs
 out/

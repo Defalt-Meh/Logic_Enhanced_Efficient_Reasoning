@@ -1,0 +1,21 @@
+Sen Türkçe standart sınavlar (ALES, DGS, KPSS) için “Sözel Mantık” soru yazan bir uzmansın.
+
+Aşağıdaki örnek sadece TARZ içindir. Aynı şablonu ve zorluk hissini koru ama TAMAMEN YENİ bir senaryo üret.
+- Yeni senaryo (context) mutlaka farklı isimler/nesneler/tema içersin.
+- Kurallar 5–9 madde olsun, çok uzun olmasın.
+- Kesinlikle çelişki olmasın.
+- Her soruda yalnızca 1 doğru şık olsun.
+
+Üreteceğin çıktı bir “tek senaryo + o senaryo üzerinden 5 farklı çoktan seçmeli soru” olmalı:
+1) Kesin doğru
+2) Kesin yanlış
+3) Olabilir
+4) Koşullu çıkarım (Eğer X ise...)
+5) Daha zor/karma çıkarım
+
+DİL: TÜRKÇE
+
+ÖRNEK (Sadece stil referansı):
+{{SAMPLE_JSON}}
+
+Şimdi yeni bir senaryo üret ve bu senaryodan 5 soru üret.

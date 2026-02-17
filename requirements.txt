@@ -1,4 +1,5 @@
-pandas
-groq
-python-dotenv
-scikit-learn
+openai>=1.40.0
+pydantic>=2.7.0
+python-dotenv>=1.0.1
+orjson>=3.10.0
+tqdm>=4.66.0
